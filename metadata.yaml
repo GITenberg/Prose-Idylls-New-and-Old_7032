@@ -1,0 +1,31 @@
+_repo: Prose-Idylls-New-and-Old_7032
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: The eminent Victorian clergyman, novelist, and essayist kept his eyes
+  open to the wonders of the natural world. This 1873 collection of nature writing
+  includes A Charm of Birds," Chalk-Stream Studies," My Winter-Garden," From Ocean
+  to Sea," and The Fens."
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+tableOfContents: A charm of birds -- Chalk-stream studies -- The fens -- My winter-garden
+  -- From ocean to ocean -- North Devon.
+title: Prose Idylls, New and Old
+url: http://www.gutenberg.org/ebooks/7032
