@@ -1,4 +1,8 @@
 _repo: Prose-Idylls-New-and-Old_7032
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -14,6 +18,8 @@ description: The eminent Victorian clergyman, novelist, and essayist kept his ey
   open to the wonders of the natural world. This 1873 collection of nature writing
   includes A Charm of Birds," Chalk-Stream Studies," My Winter-Garden," From Ocean
   to Sea," and The Fens."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7032#Prose-Idylls-New-and-Old
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
